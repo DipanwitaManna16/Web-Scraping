@@ -1,2 +1,2 @@
 # Web-Scrapping
-Web Sracpping , Data Cleaning , Feature Engineering , EDA 
+Web Sracapping , Data Cleaning , Feature Engineering , EDA 
